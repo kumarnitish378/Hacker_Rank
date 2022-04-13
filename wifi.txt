@@ -1,0 +1,61 @@
+Profiles on interface Wi-Fi:
+Group policy profiles (read only)
+--------------------------------
+    <None>
+User profiles
+
+-------------
+
+    All User Profile     : TECNO CAMON iSky2
+
+    All User Profile     : Nitish1
+
+    All User Profile     : KK Future
+
+    All User Profile     : vivo 1811
+
+    All User Profile     : wifi zone3
+
+    All User Profile     : vivo 1726
+
+    All User Profile     : shivom
+
+    All User Profile     : shivangi
+
+    All User Profile     : ram123
+
+    All User Profile     : le bhikhari
+
+    All User Profile     : Samsung Galaxy S8
+
+    All User Profile     : SUJIT SHARMA
+
+    All User Profile     : Nokia 1
+
+    All User Profile     : Nitish1 2 2
+
+    All User Profile     : Nitish1 2
+
+    All User Profile     : Nitish
+
+    All User Profile     : JioFi4_160D78
+
+    All User Profile     : Home wifi
+
+    All User Profile     : D-Link_DIR-600M
+
+    All User Profile     : CQAAAPI+NAIADwF/Redmi 5
+
+    All User Profile     : CQAAAIDJXtoATwHaRedmi Note 5
+
+    All User Profile     : BhIx-cHJha2FzaGt1bWFybWlzaHJh
+
+    All User Profile     : Aman
+
+    All User Profile     : Ajay mittal
+
+    All User Profile     : ASUS_X01BDA
+
+
+
+
